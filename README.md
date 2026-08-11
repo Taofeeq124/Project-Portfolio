@@ -240,3 +240,5 @@ I enjoy simplifying complex technical concepts into practical solutions that hel
 💻 **GitHub:** https://github.com/Taofeeq124
 
 🌐 **Portfolio:** https://dev-taofeek.netlify.app
+
+📝 **Medium:** https://medium.com/@mashoodtaofeek
