@@ -1,81 +1,242 @@
 # Project-Portfolio
 
-**Hi, I’m Taofeek Mashood**
+# 👋 Hi, I'm Taofeek Mashood
 
-WordPress Developer with 7+ years of experience building high-performing websites, custom WordPress solutions, and conversion-focused platforms. I have successfully delivered 110+ websites across multiple industries, including business websites, membership platforms, and WooCommerce stores.
+### WordPress Full Stack Developer | Technical SEO Specialist | Technical Writer
 
-I specialize in Figma-to-WordPress development, custom WordPress builds, plugin integration, and website optimization. My work focuses on creating scalable, fast, and user-friendly websites that improve user experience and support business growth.
+I help businesses build, optimise, and grow high-performing websites through a combination of **WordPress development**, **technical SEO**, and **content strategy**.
 
-Beyond development, I also implement SEO and conversion optimization strategies, helping businesses increase visibility, generate leads, and improve site performance.
+Over the last 7+ years, I have delivered **110+ WordPress websites** for agencies, startups, SMEs, eCommerce brands, consultants, and enterprise clients across multiple industries.
 
-#  🚀 Core Expertise
+My work goes beyond development. I contribute to website strategy, technical SEO, content planning, conversion optimisation, and technical documentation to help businesses improve visibility, generate leads, and scale their online presence.
 
-**WordPress Development**
+---
 
-Custom WordPress Development • Theme Customization • Plugin Integration • ACF Pro • Elementor • Divi • Bricks Builder • WooCommerce • MemberPress • LearnDash • WishList Member • WordPress Automation • Custom Post Types
+## 🚀 What I Do
 
-**Frontend & Programming**
+### WordPress Development
 
-HTML • CSS • JavaScript • Bootstrap • PHP
+- Custom WordPress Development
+- Theme Development & Customisation
+- Plugin Integration & Customisation
+- WooCommerce Development
+- Membership & LMS Platforms
+- Elementor, Divi & Bricks Builder
+- ACF Pro & Custom Post Types
+- Website Migration & Maintenance
 
-**SEO & Optimization**
+### Technical SEO
 
-On-Page SEO • Technical SEO • Local SEO • Keyword Research • Conversion Rate Optimization • SEM
+- Technical SEO Audits
+- On-Page SEO
+- Local SEO
+- Keyword Research
+- Site Architecture
+- Internal Linking Strategy
+- Core Web Vitals Optimisation
+- Search Console & Analytics
 
-**Tools**
+### Technical Writing & Content Strategy
 
-Semrush • Ahrefs • Google Search Console • Google Analytics • Git & GitHub
+- WordPress Documentation
+- Technical Tutorials
+- SEO Content Planning
+- Product Content Writing
+- Editorial Strategy
+- Knowledge Base Development
+- Content Optimisation
 
-# Experience Highlights
+### Development Stack
 
-- Built and launched 70+ WordPress websites while working remotely with a US-based agency.
+`WordPress` `PHP` `JavaScript` `React` `HTML5` `CSS3` `Bootstrap`
+`WooCommerce` `ACF Pro` `REST API` `MySQL`
+`Semrush` `Ahrefs` `GA4` `Google Search Console`
 
-- Delivered 110+ WordPress websites across different industries.
+---
 
-- Developed WooCommerce stores, membership platforms, and custom content systems.
+## 📈 Career Highlights
 
-- Converted Figma UI/UX designs into fully responsive WordPress websites.
+✅ Delivered **110+ WordPress websites**
 
-- Implemented SEO strategies and performance optimizations to improve rankings and site speed.
+✅ Built websites for clients across the US, UK, Canada, and Africa
 
-# 🌐 Selected Portfolio
+✅ Developed WooCommerce stores, membership sites, LMS platforms, and marketplace solutions
 
-1. Traffic Sigma – https://trafficsigma.com
-   Figma-to-WordPress development using Elementor and custom post types, delivering a scalable marketing website.
+✅ Worked remotely with international agencies and distributed teams
 
-2. Greengo Technology – https://greengotechnology.com
-   Developed a responsive Elementor website for an electric mobility company, incorporating dynamic content, custom sections, and modern UI components tailored to the African transportation sector.
+✅ Contributed to SEO, content strategy, and brand growth initiatives
 
-3. AdsGamma – https://adsgamma.com
-   Converted Figma designs into a responsive WordPress website using Elementor and custom post types.
+✅ Created technical content, documentation, and educational resources for WordPress users
 
-4. Golden Light Medicare – https://goldenlightmedicare.com
-   Designed and developed a healthcare-focused WordPress website using Elementor, showcasing recruitment, telemedicine, and procurement services through custom layouts and conversion-focused user journeys.
+---
 
-5. Nexus Clouds – https://nexus-clouds.com
-   Developed a responsive WordPress site from Figma UI/UX designs using Elementor with custom post structures.
+# 🌐 Selected Development Projects
 
-6. ETH Strategic Consulting – https://ethstratconsulting.com
-   Built a professional consulting website using WordPress and Elementor, highlighting governance, strategy, leadership, and organizational growth services through a clean corporate design.
+## Traffic Sigma
+🔗 https://trafficsigma.com
 
-7. Kids Kippot – https://kidskippot.com
-   Built a WooCommerce eCommerce store using Elementor and Crocoblock with custom product design functionality and custom post types.
+Figma-to-WordPress development using Elementor, ACF Pro, and custom post types for a scalable digital marketing platform.
 
-8. Hon. Boye Oyewumi – https://boyeoyewumi.com
-   Developed a political campaign website using WordPress and Elementor, featuring dynamic content sections, campaign messaging, leadership profile pages, and voter engagement functionality.
+---
 
-9. Renae’s Resale & Rentals – https://renaesresaleandrentals.com
-   Developed a WooCommerce-powered resale and rental platform using Elementor with custom product layouts.
+## Greengo Technology
+🔗 https://greengotechnology.com
 
-10. Rent Anything – https://rent-anything.com
-    Figma-to-WordPress project built with WooCommerce, Crocoblock, Elementor, and custom post types for rental marketplace functionality.
+Developed a responsive WordPress website for an electric mobility company with dynamic content structures and modern UI components.
 
-# 🤝 Open to Opportunities
+---
 
-I’m open to remote WordPress development roles, freelance projects, and collaboration opportunities.
+## Golden Light Medicare
+🔗 https://goldenlightmedicare.com
 
-# 📫 Contact
+Designed and developed a healthcare-focused website with custom layouts, service pages, and conversion-focused user journeys.
 
-**Email:** mashoodtaofeek@gmail.com
+---
 
-**LinkedIn:** https://www.linkedin.com/in/masud-taofeeq/
+## Nexus Clouds
+🔗 https://nexus-clouds.com
+
+Built a responsive WordPress website while contributing to SEO strategy, content architecture, and brand launch initiatives.
+
+---
+
+## Kids Kippot
+🔗 https://kidskippot.com
+
+Developed a WooCommerce store using Elementor, Crocoblock, and custom product functionality.
+
+---
+
+## Rent Anything
+🔗 https://rent-anything.com
+
+Built a rental marketplace platform using WooCommerce, Elementor, Crocoblock, and custom post types.
+
+---
+
+# ✍️ SEO, Content & Technical Writing Experience
+
+## Enrico Home Decor
+🔗 https://enricohomedecor.com
+
+**eCommerce Product Writer (Freelance)**
+
+Created SEO-optimized product descriptions and category content for a UK furniture brand specialising in Italian-inspired furniture, recliner sofas, and luxury home décor products.
+
+**Focus Areas**
+
+- Product Content Writing
+- Category Page Content
+- SEO Optimisation
+- Conversion Copywriting
+- eCommerce Content Strategy
+
+---
+
+## Pixels Digitals
+🔗 https://pixelsdigitals.com
+
+**Editor & Content Strategist**
+
+Managed editorial planning, content optimisation, and SEO-focused publishing initiatives across multiple digital projects.
+
+**Focus Areas**
+
+- Editorial Management
+- Content Strategy
+- SEO Content Optimisation
+- Website Content Development
+
+---
+
+## Nexus Clouds
+🔗 https://nexus-clouds.com
+
+**Technical SEO & Brand Strategy Consultant (Contract)**
+
+Part of the team responsible for launching the Nexus Clouds brand from the ground up.
+
+**Contributions**
+
+- Technical SEO
+- Brand Positioning
+- Content Architecture
+- Website Planning
+- SEO Launch Strategy
+
+---
+
+## Konnect Services
+🔗 https://konnectservices.net
+
+**Marketing Lead (SEO & WordPress)**
+
+Led technical SEO, website optimisation, and digital marketing initiatives while supporting business growth and lead generation.
+
+**Contributions**
+
+- Website Redesign
+- Technical SEO Audits
+- Content Optimisation
+- Marketing Strategy
+- Lead Generation
+
+---
+
+## Mental Wellness BC
+🔗 https://mentalwellnessbc.ca
+
+**SEO Specialist & Marketing Advisor**
+
+Provided SEO strategy and digital marketing recommendations for a mental health organisation.
+
+**Contributions**
+
+- Technical SEO
+- Local SEO
+- Content Optimisation
+- Marketing Advisory
+
+---
+
+## KOKO TV
+
+**SEO Specialist & Editor**
+
+Managed editorial workflows and SEO initiatives to improve content visibility, search performance, and audience engagement.
+
+**Contributions**
+
+- Editorial Management
+- SEO Optimisation
+- Content Planning
+- Audience Growth Strategy
+
+---
+
+# 🎥 Technical Writing & Knowledge Sharing
+
+I actively create educational resources for WordPress users, developers, and business owners.
+
+### Topics I Cover
+
+- WordPress Development
+- Technical SEO
+- Website Optimisation
+- Troubleshooting & Debugging
+- Performance Optimisation
+- Content Strategy
+
+I enjoy simplifying complex technical concepts into practical solutions that help businesses and developers succeed.
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** mashoodtaofeek@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/masud-taofeeq/
+
+💻 **GitHub:** https://github.com/Taofeeq124
+
+🌐 **Portfolio:** https://dev-taofeek.netlify.app
